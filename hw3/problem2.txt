@@ -1,0 +1,10 @@
+// PROBLEM 2
+
+// Treesort is a O(n log n) sorting function on average.
+// Explain why in your own words. State your rational
+// in concise and compelling language.
+
+Adding all n elements of the vector into the search
+tree can be done in O(n log n) steps. Because the traversal
+to copy the elements back into the vector is linear, this means
+the total running time of the algorithm is O(n log n).

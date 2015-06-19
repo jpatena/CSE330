@@ -1,0 +1,7 @@
+apple
+bus
+cat
+deer
+eagle
+free
+gold

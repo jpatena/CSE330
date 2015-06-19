@@ -1,0 +1,6 @@
+cow
+dog
+cat
+cat
+elephant
+snake
